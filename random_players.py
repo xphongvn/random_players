@@ -40,7 +40,7 @@ rank_3 = np.array(["Trang Nho",
                    "Bao Ngoc",
                    "Trung Hieu",
                    "Duc Hung",
-                   "..."])
+                   "Ashley"])
 
 
 random_combination(rank_1, rank_2, rank_3)
